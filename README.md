@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-**免费机场公益机场合集SSR-V2ray/免费vpn/免费节点/每日更新**
-=======
 # V2Ray Free Configs
 
 <p align='center'><strong>2025-03-24 12点准时更新每日免费节点，更多机场VPN优惠信息：<a href="https://vpn.tg10000.com">vpn.tg10000.com</a></strong></p>
@@ -22,7 +19,6 @@
 | IOS/iPadOS          | Shadowrocket 小火箭 **需海外账号** | SS、SSR、Trojan、V2ray、VLESS       
 
 免费机场公益机场合集SSR-V2ray/免费vpn/免费节点/每日更新
->>>>>>> a6b7a11 (add somethings)
 
 ## 机场节点
 
@@ -62,8 +58,6 @@
 | BuyVM | [BuyVM](https://my.hostbrr.com/order/forms/a/NDc5NA==) | BuyVM是一家知名的VPS提供商，提供高性价比的VPS服务。 其数据中心位于卢森堡、拉斯维加斯、迈阿密和纽约等多个地点 |
 | RackBerd | [RackBerd](https://my.racknerd.com/aff.php?aff=6211) | RackNerd 是一家成立于 2019 年的国外 VPS 主机商，提供虚拟主机、VPS、Hybrid Dedicated Servers 和独立服务器租用等。商家提供有 7 个机房可供选择（洛杉矶、西雅图、达拉斯、芝加哥、阿什本、亚特兰大、纽约） |
 
-<<<<<<< HEAD
-=======
 <p align='center'><img src='img/1.png' alt='QR Code' width='300'></p>
 
 <p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYWIzMTc2NC0xNjYxLTQyMjAtOWFjMy03MmFiZGZiM2YxMjA=@free.2weradf.xyz:36141#0%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2001%20%7C%201x%20HK</code></p>
@@ -183,4 +177,3 @@
 <p align='center'><img src='img/30.png' alt='QR Code' width='300'></p>
 
 <p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYWIzMTc2NC0xNjYxLTQyMjAtOWFjMy03MmFiZGZiM2YxMjA=@free.2weradf.xyz:36641#0%7C%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%2001%20%7C%201x%20VN</code></p>
->>>>>>> a6b7a11 (add somethings)
