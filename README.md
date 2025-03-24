@@ -3,7 +3,7 @@
 =======
 # V2Ray Free Configs
 
-<p align='center'><strong>2025-03-24 12点准时更新每日免费节点，更多机场VPN优惠信息：<a href="https://jichangvpn.github.io">jichangvpn.github.io</a></strong></p>
+<p align='center'><strong>2025-03-24 12点准时更新每日免费节点，更多机场VPN优惠信息：<a href="https://vpn.tg10000.com">vpn.tg10000.com</a></strong></p>
 <p align='center'><strong>Telegram群:<a href="https://t.me/autofreevpn">@autofreevpn</a></strong></p>
 
 
