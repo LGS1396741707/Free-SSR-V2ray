@@ -1,6 +1,6 @@
 # 文档下方有很多可直接导入使用的高速节点/二维码订阅
 
-<p align='center'><strong>2025-04-01 12点准时更新每日免费节点，更多机场VPN优惠信息：<a href="https://vpn.tg10000.com">vpn.tg10000.com</a></strong></p>
+<p align='center'><strong>2025-04-02 12点准时更新每日免费节点，更多机场VPN优惠信息：<a href="https://vpn.tg10000.com">vpn.tg10000.com</a></strong></p>
 <p align='center'><strong>Telegram群:<a href="https://t.me/freevpn">@freevpntg</a></strong></p>
 
 
@@ -60,120 +60,120 @@
 
 <p align='center'><img src='img/1.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTg2NWUxMi1lYmI4LTRlZDAtYjM1OS04NDM5YTI1YzA3NTg=@free.2weradf.xyz:36141#0%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2001%20%7C%201x%20HK</code></p>
+<p align='center'><code>vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou02.mysynology.net:35659?sni=gateway.icloud.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#0%7C%F0%9F%87%AF%F0%9F%87%B51%20%7C%20%206.1MB/s</code></p>
 
 <p align='center'><img src='img/2.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTg2NWUxMi1lYmI4LTRlZDAtYjM1OS04NDM5YTI1YzA3NTg=@free.2weradf.xyz:36143#0%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2002%20%7C%201x%20HK</code></p>
+<p align='center'><code>vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@agaungzhou01.bumbleshrimp.com:30019?sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#0%7C%F0%9F%8C%801-IL%20%7C%20%204.6MB/s</code></p>
 
 <p align='center'><img src='img/3.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTg2NWUxMi1lYmI4LTRlZDAtYjM1OS04NDM5YTI1YzA3NTg=@free.2weradf.xyz:36145#0%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%E4%BD%8F%E5%AE%85IP%2003%20%7C%201x%20HK</code></p>
+<p align='center'><code>ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.222.2.112:443#0%7C%F0%9F%87%BA%F0%9F%87%B81%20%7C%20%204.9MB/s</code></p>
 
 <p align='center'><img src='img/4.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTg2NWUxMi1lYmI4LTRlZDAtYjM1OS04NDM5YTI1YzA3NTg=@free.2weradf.xyz:36241#0%7C%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%2001%20%7C%201x%20TW</code></p>
+<p align='center'><code>vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@agaungzhou01.bumbleshrimp.com:46716?allowInsecure=0&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#0%2C14%7CCN_speednode_0016</code></p>
 
 <p align='center'><img src='img/5.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTg2NWUxMi1lYmI4LTRlZDAtYjM1OS04NDM5YTI1YzA3NTg=@free.2weradf.xyz:36243#0%7C%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%2002%20%7C%201x%20TW</code></p>
+<p align='center'><code>vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou02.mysynology.net:32193?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#0%7C%F0%9F%8C%802-TH%20%7C%20%205.6MB/s</code></p>
 
 <p align='center'><img src='img/6.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTg2NWUxMi1lYmI4LTRlZDAtYjM1OS04NDM5YTI1YzA3NTg=@free.2weradf.xyz:36245#0%7C%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%2003%20%7C%201x%20TW</code></p>
+<p align='center'><code>vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@agaungzhou01.bumbleshrimp.com:31800?allowInsecure=0&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#0%2C14%7CCN_speednode_0012</code></p>
 
 <p align='center'><img src='img/7.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTg2NWUxMi1lYmI4LTRlZDAtYjM1OS04NDM5YTI1YzA3NTg=@free.2weradf.xyz:36111#0%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%2001%20%7C%201x%20JP</code></p>
+<p align='center'><code>vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou05.mysynology.net:33782?allowInsecure=1&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#0%2C14%7CCN_speednode_0011</code></p>
 
 <p align='center'><img src='img/8.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTg2NWUxMi1lYmI4LTRlZDAtYjM1OS04NDM5YTI1YzA3NTg=@free.2weradf.xyz:36113#0%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%2002%20%7C%201x%20JP</code></p>
+<p align='center'><code>trojan://6040a753-e35b-4384-8713-96f3c639b621@104.21.69.41:443?allowInsecure=0&sni=kju84.890602.XYZ&type=ws&host=kju84.890602.XYZ&path=%2FWxWOWO1YA9bs2HOmaeWimvT3#0%7C%F0%9F%87%BA%F0%9F%87%B83%20%7C%20%205.6MB/s</code></p>
 
 <p align='center'><img src='img/9.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTg2NWUxMi1lYmI4LTRlZDAtYjM1OS04NDM5YTI1YzA3NTg=@free.2weradf.xyz:36115#0%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%2003%20%7C%201x%20JP</code></p>
+<p align='center'><code>vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.96.3:8443?sni=GOzaRGAh.vALidBv7996.Ir&type=ws&host=gozargah.validbv7996.ir&path=Telegram@V2ray_Alpha/?ed=2560flow=-udp443&fp=chrome&security=tls#0%7C%F0%9F%87%BA%F0%9F%87%B84%20%7C%20%205.6MB/s</code></p>
 
 <p align='center'><img src='img/10.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTg2NWUxMi1lYmI4LTRlZDAtYjM1OS04NDM5YTI1YzA3NTg=@free.2weradf.xyz:36171#0%7C%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2001%20%7C%201x%20SG</code></p>
+<p align='center'><code>vless://ee8e512f-0b40-466f-adbf-23208f193cca@104.26.15.16:2096?sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&host=bEAt.MIRaclETaxbiTS.Top.&path=/2096/@VRayyNGvpnflow=-udp443&fp=random&security=tls#0%7C%F0%9F%87%AB%F0%9F%87%AE1%20%7C%20%205.0MB/s</code></p>
 
 <p align='center'><img src='img/11.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTg2NWUxMi1lYmI4LTRlZDAtYjM1OS04NDM5YTI1YzA3NTg=@free.2weradf.xyz:36173#0%7C%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2002%20%7C%201x%20SG</code></p>
+<p align='center'><code>vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.113:80?type=ws&host=gozargah.validbv7996.ir&path=Telegram🇨🇳@WangCai2/?ed=2560#0%7C%F0%9F%87%BA%F0%9F%87%B85%20%7C%20%203.9MB/s</code></p>
 
 <p align='center'><img src='img/12.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTg2NWUxMi1lYmI4LTRlZDAtYjM1OS04NDM5YTI1YzA3NTg=@free.2weradf.xyz:36175#0%7C%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2003%20%7C%201x%20SG</code></p>
+<p align='center'><code>vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:40581?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#0%7C%F0%9F%8C%803-ES%20%7C%20%205.1MB/s</code></p>
 
 <p align='center'><img src='img/13.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTg2NWUxMi1lYmI4LTRlZDAtYjM1OS04NDM5YTI1YzA3NTg=@free.2weradf.xyz:36311#0%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%2001%20%7C%201x%20KR</code></p>
+<p align='center'><code>vless://6e18ff9e-ebc2-41c7-9d41-a7ee624cacd6@37.27.218.238:2089?sni=refersion.com&fp=chrome&security=tls#0%7C%F0%9F%87%AB%F0%9F%87%AE2%20%7C%20%201.8MB/s</code></p>
 
 <p align='center'><img src='img/14.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTg2NWUxMi1lYmI4LTRlZDAtYjM1OS04NDM5YTI1YzA3NTg=@free.2weradf.xyz:36313#0%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%2002%20%7C%201x%20KR</code></p>
+<p align='center'><code>vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@gysz0000.dynu.net:10635?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#0%7C%F0%9F%87%AF%F0%9F%87%B52%20%7C%20%201.8MB/s</code></p>
 
 <p align='center'><img src='img/15.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTg2NWUxMi1lYmI4LTRlZDAtYjM1OS04NDM5YTI1YzA3NTg=@free.2weradf.xyz:36341#0%7C%F0%9F%87%B5%F0%9F%87%AD%20%E8%8F%B2%E5%BE%8B%E5%AE%BE%2001%20%7C%201x%20PH</code></p>
+<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMHzwn4e48J+HrDEgfCAgMS42TUIvcyIsICJhZGQiOiAiMTM4N2ViZGQtc3U3YjQwLXN1NjgyOC1lbWUuYi5mb3NhbnQuY29tIiwgInBvcnQiOiAzNjgzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMTZkOTNmMTQtYWYwZS0xMWVlLThlYmUtZjIzYzkzMTM2Y2IzIn0=</code></p>
 
 <p align='center'><img src='img/16.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTg2NWUxMi1lYmI4LTRlZDAtYjM1OS04NDM5YTI1YzA3NTg=@free.2weradf.xyz:36211#0%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%2001%20%7C%201x%20US%20Los%20Angeles</code></p>
+<p align='center'><code>vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@beiyong.dynuddns.net:48121?allowInsecure=1&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#0%2C14%7CCN_speednode_0017</code></p>
 
 <p align='center'><img src='img/17.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTg2NWUxMi1lYmI4LTRlZDAtYjM1OS04NDM5YTI1YzA3NTg=@free.2weradf.xyz:36213#0%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E4%BD%8F%E5%AE%85IP%2002%20%7C%201x%20US%20Los%20Angel...</code></p>
+<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMCwxM3zpppnmuK8zfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInYyLWhrMS16eC5uZXRjYXIubGl2ZSIsICJwb3J0IjogIjEwMDMyIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImJmZDkzYzVjLWFiYzctNDE2YS1hMjA1LTM3MmQzZGI5NzlhNCIsICJzbmkiOiAiIn0=</code></p>
 
 <p align='center'><img src='img/18.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTg2NWUxMi1lYmI4LTRlZDAtYjM1OS04NDM5YTI1YzA3NTg=@free.2weradf.xyz:36215#0%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%2003%20%7C%201x%20US%20Washington</code></p>
+<p align='center'><code>vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou05.mysynology.net:37809?allowInsecure=0&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#0%2C14%7CCN_speednode_0008</code></p>
 
 <p align='center'><img src='img/19.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTg2NWUxMi1lYmI4LTRlZDAtYjM1OS04NDM5YTI1YzA3NTg=@free.2weradf.xyz:36271#0%7C%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%E4%BD%8F%E5%AE%85IP%2001%20%7C%201x%20UK</code></p>
+<p align='center'><code>vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:42426?sni=gateway.icloud.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#0%7C%F0%9F%87%A6%F0%9F%87%BA1%20%7C%20%202.7MB/s</code></p>
 
 <p align='center'><img src='img/20.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTg2NWUxMi1lYmI4LTRlZDAtYjM1OS04NDM5YTI1YzA3NTg=@free.2weradf.xyz:36721#0%7C%F0%9F%87%B2%F0%9F%87%BE%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%2001%20%7C%201x%20MY</code></p>
+<p align='center'><code>vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@csuzhou01.1cooldns.com:14659?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#0%7C%F0%9F%87%AC%F0%9F%87%A71%20%7C%20%203.0MB/s</code></p>
 
 <p align='center'><img src='img/21.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTg2NWUxMi1lYmI4LTRlZDAtYjM1OS04NDM5YTI1YzA3NTg=@free.2weradf.xyz:36741#0%7C%F0%9F%87%AE%F0%9F%87%B3%E8%A5%BF%E7%8F%AD%E7%89%99%2001%20%7C%201x%20ES</code></p>
+<p align='center'><code>vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@beiyong.dynuddns.net:29877?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#0%7C%F0%9F%87%B8%F0%9F%87%AC2%20%7C%20%206.7MB/s</code></p>
 
 <p align='center'><img src='img/22.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTg2NWUxMi1lYmI4LTRlZDAtYjM1OS04NDM5YTI1YzA3NTg=@free.2weradf.xyz:36731#0%7C%F0%9F%87%B9%F0%9F%87%AD%E6%B3%B0%E5%9B%BD%2001%20%7C%201x%20TH</code></p>
+<p align='center'><code>hysteria2://dongtaiwang.com@51.159.226.1:61770?insecure=1&sni=www.bing.com#0%7C%F0%9F%87%AB%F0%9F%87%B72%20%7C%20%204.0MB/s</code></p>
 
 <p align='center'><img src='img/23.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTg2NWUxMi1lYmI4LTRlZDAtYjM1OS04NDM5YTI1YzA3NTg=@free.2weradf.xyz:36371#0%7C%F0%9F%87%AE%F0%9F%87%B3%20%E5%8D%B0%E5%BA%A6%2001%20%7C%201x%20IN</code></p>
+<p align='center'><code>trojan://qXI16FpsEL72@mojnews.itn24.ir:2096?allowInsecure=0&sni=mojnews.itn24.ir&type=ws&host=mojnews.itn24.ir&path=/🆔@M3HDIO1#0%7C%F0%9F%8C%804-SE%20%7C%20%201.8MB/s</code></p>
 
 <p align='center'><img src='img/24.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTg2NWUxMi1lYmI4LTRlZDAtYjM1OS04NDM5YTI1YzA3NTg=@free.2weradf.xyz:36411#0%7C%F0%9F%87%A6%F0%9F%87%BA%20%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%2001%20%7C%201x%20AU</code></p>
+<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMHzwn4e48J+HrDMgfCAgNi4yTUIvcyIsICJhZGQiOiAiYjI2OGNmM2Mtc3U3eGMwLXN3eDEwcC1jdzl2LmIuZm9zYW50LmNvbSIsICJwb3J0IjogMzY4MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImYzOWJhYWJjLWVmNzgtMTFlZi1iNzE0LWYyM2M5MzEzNmNiMyJ9</code></p>
 
 <p align='center'><img src='img/25.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTg2NWUxMi1lYmI4LTRlZDAtYjM1OS04NDM5YTI1YzA3NTg=@free.2weradf.xyz:36441#0%7C%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%2001%20%7C%201x%20CA</code></p>
+<p align='center'><code>trojan://6040a753-e35b-4384-8713-96f3c639b621@104.21.21.226:443?allowInsecure=1&sni=uK803.890689.Xyz&type=ws&host=uK803.890689.Xyz&path=/WxWOWO1YA9bs2HOmaeWimvT3#0%7C%F0%9F%87%BA%F0%9F%87%B86%20%7C%20%204.7MB/s</code></p>
 
 <p align='center'><img src='img/26.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTg2NWUxMi1lYmI4LTRlZDAtYjM1OS04NDM5YTI1YzA3NTg=@free.2weradf.xyz:36471#0%7C%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%2001%20%7C%201x%20DE</code></p>
+<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMHzwn4e48J+HrDQgfCAgNi4zTUIvcyIsICJhZGQiOiAiMGRjMDg2NjQtc3U3YjQwLXN2MHEwZi05dzViLmIuZm9zYW50LmNvbSIsICJwb3J0IjogMzY4MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQ3YWRiZGRiLTMzMDctMTFlZi04MDAyLWYyM2M5MzEzNmNiMyJ9</code></p>
 
 <p align='center'><img src='img/27.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTg2NWUxMi1lYmI4LTRlZDAtYjM1OS04NDM5YTI1YzA3NTg=@free.2weradf.xyz:36511#0%7C%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%2001%20%7C%201x%20RU</code></p>
+<p align='center'><code>vless://575d3535-a0e4-4e14-9212-f47bcdacd3de@ng.9901157.xyz:443?sni=ng.9901157.xyz&alpn=h3%2Ch2%2Chttp/1.1&type=ws&host=ng.9901157.xyz&path=/fp=chrome&security=tls#0%7C%F0%9F%8C%805-NG%20%7C%20%201.4MB/s</code></p>
 
 <p align='center'><img src='img/28.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTg2NWUxMi1lYmI4LTRlZDAtYjM1OS04NDM5YTI1YzA3NTg=@free.2weradf.xyz:36571#0%7C%F0%9F%87%B9%F0%9F%87%B7%20%E5%9C%9F%E8%80%B3%E5%85%B6%2001%20%7C%201x%20TR</code></p>
+<p align='center'><code>vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@gysz0000.dynu.net:12477?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#0%7C%F0%9F%87%B9%F0%9F%87%BC2%20%7C%20%203.2MB/s</code></p>
 
 <p align='center'><img src='img/29.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTg2NWUxMi1lYmI4LTRlZDAtYjM1OS04NDM5YTI1YzA3NTg=@free.2weradf.xyz:36611#0%7C%F0%9F%87%BA%F0%9F%87%A6%20%E4%B9%8C%E5%85%8B%E5%85%B0%2001%20%7C%201x%20UA</code></p>
+<p align='center'><code>vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou02.mysynology.net:38400?sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#0%7C%F0%9F%87%BA%F0%9F%87%A61%20%7C%20%204.6MB/s</code></p>
 
 <p align='center'><img src='img/30.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTg2NWUxMi1lYmI4LTRlZDAtYjM1OS04NDM5YTI1YzA3NTg=@free.2weradf.xyz:36641#0%7C%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%2001%20%7C%201x%20VN</code></p>
+<p align='center'><code>vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou02.mysynology.net:35311?sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#0%7C%F0%9F%87%AC%F0%9F%87%A72%20%7C%20%204.2MB/s</code></p>
